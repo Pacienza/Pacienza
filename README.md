@@ -1,4 +1,16 @@
-# Bem vindo ao meu perfil do GitHub
+# Pacienza, o Tecnomago
+<div align="center">
+  
+**Idade:** 23 Anos
+
+**Classe:** Mago
+
+**Raça:** Humano
+
+| FOR   | DES    | CON    | INT    | SAB    | CAR    |
+| ----- | ------ | ------ | ------ | ------ | ------ |
+| 8(-1) | 15(+2) | 10(+0) | 12(+1) | 14(+2) | 11(+0) |
+</div>
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -19,6 +31,7 @@
 </div>
 
 # 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -38,4 +51,5 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pacienza&icon=2&color=3)](https://visitcount.itsvg.in)
+  
+![](https://visitcount.itsvg.in/api?id=Pacienza&icon=2&color=3)](https://visitcount.itsvg.in)
