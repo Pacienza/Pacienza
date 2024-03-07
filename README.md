@@ -5,6 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacienza&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pacienza&theme=dracula&hide_border=false)
 
+# Commits
+![snake gif](https://github.com/Pacienza/Pacienza/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-pacienza)
