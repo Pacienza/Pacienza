@@ -1,7 +1,7 @@
 # Pacienza, o Tecnomago
 <div align="center">
   
-**Idade:** 24 Anos
+**Idade:** 25 Anos
 
 **Classe:** Mago
 
